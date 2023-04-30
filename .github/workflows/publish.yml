@@ -25,7 +25,12 @@ jobs:
           sudo chmod 777 /tmp/plantuml.jar
 
       - name: Build the side
-        run: ./build.sh
+        run: |
+          ./build.sh
+          cd _site
+          git add .
+          git commit -m 'update website' -a
+          git push origin gh-pages -f
 
       # - name: Deploy
       #   uses: peaceiris/actions-gh-pages@v3

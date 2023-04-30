@@ -74,7 +74,7 @@
 (setq org-html-validation-link nil            ;; Don't show validation link
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-      emacs-cc-html-head "<link rel=\"stylesheet\" href=\"/style.css\" type=\"text/css\"/>"
+      emacs-cc-html-head "<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"/>"
       emacs-cc-html-preamble " "
       emacs-cc-html-postamble (concat "<footer> <div class=\"generated\"> &copy; " (format-time-string "%Y" (current-time)) " <a href=\"/pages/about\">TZ</a>, built with %c </div> </footer>")
       emacs-cc-comments-html-postamble (concat "<script src=\"https://utteranc.es/client.js\" repo=\"eggcaker/eggcaker.github.io\" issue-term=\"pathname\" theme=\"github-light\" crossorigin=\"anonymous\" async></script> <footer> <div class=\"generated\"> &copy; " (format-time-string "%Y" (current-time)) " <a href=\"/pages/about\">TZ</a>, built with %c  </div> </footer>")

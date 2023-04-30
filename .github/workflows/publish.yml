@@ -30,11 +30,8 @@ jobs:
         run: |
           ./build.sh
           cd _site
-          git init .
           git add .
           git commit -m 'update website' -a
-          git checkout gh-pages
-          git remote add origin git@github.com:eggcaker/learning-japanese-with-gpt.git
           git push -f origin gh-pages
 
       # - name: Deploy

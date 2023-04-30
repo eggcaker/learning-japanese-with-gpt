@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2023-04-30 Sun 19:19 -->
+<!-- 2023-04-30 Sun 19:20 -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Day 1-3: Lesson 1 - Japanese Basics</title>
@@ -14,13 +14,13 @@
 <header>
 <h1 class="title">Day 1-3: Lesson 1 - Japanese Basics</h1>
 </header>
-<div id="outline-container-orgc7c5c69" class="outline-2">
-<h2 id="orgc7c5c69">Day 1: Greetings, self-introduction, numbers</h2>
-<div class="outline-text-2" id="text-orgc7c5c69">
+<div id="outline-container-org305c1bb" class="outline-2">
+<h2 id="org305c1bb">Day 1: Greetings, self-introduction, numbers</h2>
+<div class="outline-text-2" id="text-org305c1bb">
 </div>
-<div id="outline-container-org7bbda37" class="outline-3">
-<h3 id="org7bbda37">自我介绍 (Self-Introduction)</h3>
-<div class="outline-text-3" id="text-org7bbda37">
+<div id="outline-container-orgf3d2c31" class="outline-3">
+<h3 id="orgf3d2c31">自我介绍 (Self-Introduction)</h3>
+<div class="outline-text-3" id="text-orgf3d2c31">
 <ul class="org-ul">
 <li>こんにちは (konnichiwa) : 你好</li>
 <li>はじめまして (hajimemashite) : 初次见面</li>
@@ -28,9 +28,9 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-orgadd5aad" class="outline-3">
-<h3 id="orgadd5aad">常用问候 (Common Greetings)</h3>
-<div class="outline-text-3" id="text-orgadd5aad">
+<div id="outline-container-orgd50427b" class="outline-3">
+<h3 id="orgd50427b">常用问候 (Common Greetings)</h3>
+<div class="outline-text-3" id="text-orgd50427b">
 <ul class="org-ul">
 <li>おはようございます (ohayou gozaimasu) : 早上好</li>
 <li>こんばんは (konbanwa) : 晚上好</li>
@@ -42,9 +42,9 @@
 </div>
 </div>
 
-<div id="outline-container-org1a12a0d" class="outline-3">
-<h3 id="org1a12a0d">数字 (Numbers)</h3>
-<div class="outline-text-3" id="text-org1a12a0d">
+<div id="outline-container-orgd516d75" class="outline-3">
+<h3 id="orgd516d75">数字 (Numbers)</h3>
+<div class="outline-text-3" id="text-orgd516d75">
 <ul class="org-ul">
 <li>一 (いち, ichi) : 1</li>
 <li>二 (に, ni) : 2</li>
@@ -60,9 +60,9 @@
 </div>
 </div>
 
-<div id="outline-container-org1626731" class="outline-3">
-<h3 id="org1626731">基本疑问句 (Basic Questions)</h3>
-<div class="outline-text-3" id="text-org1626731">
+<div id="outline-container-org56990e0" class="outline-3">
+<h3 id="org56990e0">基本疑问句 (Basic Questions)</h3>
+<div class="outline-text-3" id="text-org56990e0">
 <ul class="org-ul">
 <li>お名前は何ですか？ (おなまえはなんですか, onamae wa nan desu ka) : 您叫什么名字？</li>
 <li>何歳ですか？ (なんさいですか, nansai desu ka) : 您几岁？</li>
@@ -70,9 +70,9 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf888297" class="outline-3">
-<h3 id="orgf888297">一般回答 (General Responses)</h3>
-<div class="outline-text-3" id="text-orgf888297">
+<div id="outline-container-org1adedbb" class="outline-3">
+<h3 id="org1adedbb">一般回答 (General Responses)</h3>
+<div class="outline-text-3" id="text-org1adedbb">
 <ul class="org-ul">
 <li>はい (hai) : 是</li>
 <li>いいえ (iie) : 否</li>
@@ -83,13 +83,13 @@
 </div>
 </div>
 
-<div id="outline-container-org14f17ab" class="outline-2">
-<h2 id="org14f17ab">Day 2: Dates, days of the week, months</h2>
-<div class="outline-text-2" id="text-org14f17ab">
+<div id="outline-container-orgf2c78c2" class="outline-2">
+<h2 id="orgf2c78c2">Day 2: Dates, days of the week, months</h2>
+<div class="outline-text-2" id="text-orgf2c78c2">
 </div>
-<div id="outline-container-orgd0e713c" class="outline-3">
-<h3 id="orgd0e713c">日期 (Dates)</h3>
-<div class="outline-text-3" id="text-orgd0e713c">
+<div id="outline-container-orgbc9fc34" class="outline-3">
+<h3 id="orgbc9fc34">日期 (Dates)</h3>
+<div class="outline-text-3" id="text-orgbc9fc34">
 <ul class="org-ul">
 <li>年 (ねん, nen) : 年</li>
 <li>月 (がつ, gatsu) : 月</li>
@@ -97,9 +97,9 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org26bf35a" class="outline-3">
-<h3 id="org26bf35a">一月到十二月 (Months)</h3>
-<div class="outline-text-3" id="text-org26bf35a">
+<div id="outline-container-org10db6c1" class="outline-3">
+<h3 id="org10db6c1">一月到十二月 (Months)</h3>
+<div class="outline-text-3" id="text-org10db6c1">
 <ul class="org-ul">
 <li>一月 (いちがつ, ichigatsu) : 1月</li>
 <li>二月 (にがつ, nigatsu) : 2月</li>
@@ -127,9 +127,9 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org84e6802" class="outline-3">
-<h3 id="org84e6802">星期一到星期日 (Days of the Week)</h3>
-<div class="outline-text-3" id="text-org84e6802">
+<div id="outline-container-org0c46139" class="outline-3">
+<h3 id="org0c46139">星期一到星期日 (Days of the Week)</h3>
+<div class="outline-text-3" id="text-org0c46139">
 <ul class="org-ul">
 <li>月曜日 (げつようび, getsuyoubi) : 星期一</li>
 <li>火曜日 (かようび, kayoubi) : 星期二</li>
@@ -141,9 +141,9 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf16e8c3" class="outline-3">
-<h3 id="orgf16e8c3">如何询问日期和星期 (Asking about Dates and Days of the Week)</h3>
-<div class="outline-text-3" id="text-orgf16e8c3">
+<div id="outline-container-org3f1114f" class="outline-3">
+<h3 id="org3f1114f">如何询问日期和星期 (Asking about Dates and Days of the Week)</h3>
+<div class="outline-text-3" id="text-org3f1114f">
 <p>
 今日は何日ですか？ (きょうはなんにちですか, kyou wa nan nichi desu ka) : 今天几号？
 今日は何曜日ですか？ (きょうはなんようびですか, kyou wa nan youbi desu ka) : 今天星期几？
@@ -152,17 +152,17 @@
 </div>
 </div>
 
-<div id="outline-container-orge643a4a" class="outline-2">
-<h2 id="orge643a4a">Day 3: Practice and review</h2>
-<div class="outline-text-2" id="text-orge643a4a">
+<div id="outline-container-orgf47f2dc" class="outline-2">
+<h2 id="orgf47f2dc">Day 3: Practice and review</h2>
+<div class="outline-text-2" id="text-orgf47f2dc">
 <p>
 在第三天，我们将回顾和练习前两天学到的内容。请确保你已经熟练掌握了这些基本词汇和短语。
 </p>
 </div>
 
-<div id="outline-container-org067a320" class="outline-3">
-<h3 id="org067a320">回顾 (Review)</h3>
-<div class="outline-text-3" id="text-org067a320">
+<div id="outline-container-org7838ac4" class="outline-3">
+<h3 id="org7838ac4">回顾 (Review)</h3>
+<div class="outline-text-3" id="text-org7838ac4">
 <ul class="org-ul">
 <li>自我介绍与常用问候</li>
 <li>基本疑问句与一般回答</li>
@@ -174,9 +174,9 @@
 </div>
 </div>
 
-<div id="outline-container-orgd89b182" class="outline-3">
-<h3 id="orgd89b182">练习 (Practice)</h3>
-<div class="outline-text-3" id="text-orgd89b182">
+<div id="outline-container-org93ac97f" class="outline-3">
+<h3 id="org93ac97f">练习 (Practice)</h3>
+<div class="outline-text-3" id="text-org93ac97f">
 <ul class="org-ul">
 <li>自我介绍：与同伴或朋友练习用日语进行自我介绍。</li>
 <li>数字：大声朗读数字，或向他人询问他们的年龄、电话号码等。</li>
@@ -186,9 +186,9 @@
 </div>
 </div>
 
-<div id="outline-container-org7deb596" class="outline-3">
-<h3 id="org7deb596">提示与技巧 (Tips and Tricks)</h3>
-<div class="outline-text-3" id="text-org7deb596">
+<div id="outline-container-orgbfc2724" class="outline-3">
+<h3 id="orgbfc2724">提示与技巧 (Tips and Tricks)</h3>
+<div class="outline-text-3" id="text-orgbfc2724">
 <ul class="org-ul">
 <li>多听多说：尽量多与日本人或会说日语的人进行对话，提高听力和口语水平。</li>
 <li>制作词汇卡片：为每个单词或短语制作一张词汇卡片，便于随时查阅和复习。</li>

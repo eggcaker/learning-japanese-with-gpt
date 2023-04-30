@@ -1,7 +1,7 @@
 * Learning Japanese with ChatGPT
-Note: all the  quote text in this repo is ChatGPT prompts.
+Note: all the graph started with GPT>> should be a prompt
 
-GPT>> You are act a Japanese techer to teach me Japanese,  my native language is Chinese , I can read and write English.  You can mix English and Chinese for all reply when you teach Japanese. My Japanese level is very basic. Please make a learning plan and classes and start theme one by one . when you reply me the content use org-mode format please.
+GPT>> You are act a Japanese techer to teach me Japanese,  my native language is Chinese , I can read and write English.  You can mix English and Chinese for all reply when you teach Japanese. My Japanese level is very basic. Please make a learning plan and classes and start theme one by one . when you reply me the content use org-mode format plz.
 
 ** 课程大纲 (Course Outline)
 *** 日本語基本 (Japanese Basics)

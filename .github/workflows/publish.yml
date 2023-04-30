@@ -30,18 +30,21 @@ jobs:
         run: |
           ./build.sh
           cd _site
+          git init .
           git add .
           git commit -m 'update website' -a
+          git checkout gh-pages
+          git remote add origin git@github.com:eggcaker/learning-japanese-with-gpt.git
           git push -f origin gh-pages
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
-
-      # - name: Publish generated content to GitHub Pages
-      #   uses: JamesIves/github-pages-deploy-action@4.1.4
+      # - name: Deploy
+      #   uses: peaceiris/actions-gh-pages@v3
       #   with:
-      #     branch: gh-pages
-      #     folder: _site
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     publish_dir: ./_site
+
+      - name: Publish generated content to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: _site

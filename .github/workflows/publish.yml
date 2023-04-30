@@ -12,7 +12,9 @@ jobs:
       contents: write
     steps:
       - name: Check out
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
 
       - name: Install Emacs
         run: |
@@ -26,7 +28,7 @@ jobs:
           sudo chmod 777 /tmp/ditaa.jar
           sudo chmod 777 /tmp/plantuml.jar
 
-      - name: Build the side
+      - name: Build the site
         run: |
           ./build.sh
           cd _site
@@ -40,8 +42,8 @@ jobs:
       #     github_token: ${{ secrets.GITHUB_TOKEN }}
       #     publish_dir: ./_site
 
-      - name: Publish generated content to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: gh-pages
-          folder: _site
+      # - name: Publish generated content to GitHub Pages
+      #   uses: JamesIves/github-pages-deploy-action@4.1.4
+      #   with:
+      #     branch: gh-pages
+      #     folder: _site

@@ -31,10 +31,10 @@ jobs:
       - name: Build the site
         run: |
           ./build.sh
-          cd _site
-          git add .
-          git commit -m 'update website' -a
-          git push -f origin gh-pages
+          # cd _site
+          # git add .
+          # git commit -m 'update website' -a
+          # git push -f origin gh-pages
 
       # - name: Deploy
       #   uses: peaceiris/actions-gh-pages@v3
@@ -42,8 +42,8 @@ jobs:
       #     github_token: ${{ secrets.GITHUB_TOKEN }}
       #     publish_dir: ./_site
 
-      # - name: Publish generated content to GitHub Pages
-      #   uses: JamesIves/github-pages-deploy-action@4.1.4
-      #   with:
-      #     branch: gh-pages
-      #     folder: _site
+      - name: Publish generated content to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: _site

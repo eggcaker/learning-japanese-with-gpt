@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2023-04-30 Sun 19:20 -->
+<!-- 2023-04-30 Sun 20:12 -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
 <meta name="description" content="Learning some thing with GPT." />
 <meta name="generator" content="Org Mode" />
-<link rel="stylesheet" href="/style.css" type="text/css"/>
+<link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 <body>
 <div id="content" class="content">
@@ -15,112 +15,112 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org3c1fb0d">Learning Japanese with ChatGPT</a>
+<li><a href="#org7d4179a">Learning Japanese with ChatGPT</a>
 <ul>
-<li><a href="#orgc48c7c4">Start</a></li>
-<li><a href="#orgef40deb">课程大纲 (Course Outline)</a>
+<li><a href="#orgc836eb6">Start</a></li>
+<li><a href="#orgd376f70">课程大纲 (Course Outline)</a>
 <ul>
-<li><a href="#orgf74e410">日本語基本 (Japanese Basics)</a></li>
-<li><a href="#org4c7f576">ひらがな和カタカナ (Hiragana and Katakana)</a></li>
-<li><a href="#org5e53529">基本文法 (Basic Grammar)</a></li>
-<li><a href="#org7a18bc2">常用汉字 (Kanji)</a></li>
-<li><a href="#org967c246">生活场景对话 (Daily Conversations)</a></li>
-<li><a href="#org8412a40">日本文化与习俗 (Japanese Culture and Customs)</a></li>
-<li><a href="#org31d1834">日本地理 (Japanese Geography)</a></li>
-<li><a href="#orgb7a9703">日本历史 (Japanese History)</a></li>
-<li><a href="#org24ffc58">拓展词汇与表达 (Expanding Vocabulary and Expressions)</a></li>
-<li><a href="#org80326e1">实践与复习 (Practice and Review)</a></li>
+<li><a href="#org75cece7">日本語基本 (Japanese Basics)</a></li>
+<li><a href="#orgb9a4d93">ひらがな和カタカナ (Hiragana and Katakana)</a></li>
+<li><a href="#org8e696e5">基本文法 (Basic Grammar)</a></li>
+<li><a href="#orge5228ee">常用汉字 (Kanji)</a></li>
+<li><a href="#org0a6e868">生活场景对话 (Daily Conversations)</a></li>
+<li><a href="#org209cd71">日本文化与习俗 (Japanese Culture and Customs)</a></li>
+<li><a href="#org33e8a5a">日本地理 (Japanese Geography)</a></li>
+<li><a href="#org9584f2b">日本历史 (Japanese History)</a></li>
+<li><a href="#org445f49b">拓展词汇与表达 (Expanding Vocabulary and Expressions)</a></li>
+<li><a href="#orgba9b6a2">实践与复习 (Practice and Review)</a></li>
 </ul>
 </li>
-<li><a href="#org4c7828f">第一课：日本語基本 (Lesson 1: Japanese Basics)</a>
+<li><a href="#org0286f3f">第一课：日本語基本 (Lesson 1: Japanese Basics)</a>
 <ul>
-<li><a href="#org7c05bee">自我介绍 (Self-Introduction)</a></li>
-<li><a href="#org802adfe">常用问候 (Common Greetings)</a></li>
-<li><a href="#org959c9e8">数字 (Numbers)</a></li>
-<li><a href="#orgb588220">Practice</a></li>
+<li><a href="#org4ceac8f">自我介绍 (Self-Introduction)</a></li>
+<li><a href="#orgfe52451">常用问候 (Common Greetings)</a></li>
+<li><a href="#orge347102">数字 (Numbers)</a></li>
+<li><a href="#org0e85e23">Practice</a></li>
 </ul>
 </li>
-<li><a href="#org6ccf8c5">第二课：ひらがな和カタカナ (Lesson 2: Hiragana and Katakana)</a>
+<li><a href="#orgbe5b94f">第二课：ひらがな和カタカナ (Lesson 2: Hiragana and Katakana)</a>
 <ul>
-<li><a href="#orgcc0ec11">ひらがな (Hiragana)</a></li>
-<li><a href="#orge1e9d84">カタカナ (Katakana)</a></li>
-<li><a href="#org4996cf1">Practice</a></li>
+<li><a href="#org36c3dc0">ひらがな (Hiragana)</a></li>
+<li><a href="#orgbab549e">カタカナ (Katakana)</a></li>
+<li><a href="#org3ed2b21">Practice</a></li>
 </ul>
 </li>
-<li><a href="#orgd056c6f">第三课：基本文法 (Lesson 3 Basic Grammar)</a>
+<li><a href="#orgc45786e">第三课：基本文法 (Lesson 3 Basic Grammar)</a>
 <ul>
-<li><a href="#orgbf46d68">动词 (Verbs)</a></li>
-<li><a href="#orgf7ac4b5">形容词 (Adjectives)</a></li>
-<li><a href="#orgba02133">语法结构 (Grammar Structures)</a></li>
-<li><a href="#org8869cf4">Practice</a></li>
+<li><a href="#org67cbc64">动词 (Verbs)</a></li>
+<li><a href="#org46d2f30">形容词 (Adjectives)</a></li>
+<li><a href="#orgeaa38cc">语法结构 (Grammar Structures)</a></li>
+<li><a href="#org82fca4a">Practice</a></li>
 </ul>
 </li>
-<li><a href="#orga218114">第四课：常用汉字 (Lesson 4: Kanji)</a>
+<li><a href="#org757de2e">第四课：常用汉字 (Lesson 4: Kanji)</a>
 <ul>
-<li><a href="#orgea8c3c6">基本汉字 (Basic Kanji)</a></li>
-<li><a href="#orgd1f1c02">汉字的部首 (Kanji Radicals)</a></li>
-<li><a href="#orgf957f2e">Practice</a></li>
+<li><a href="#orgdd2a33b">基本汉字 (Basic Kanji)</a></li>
+<li><a href="#org7a79912">汉字的部首 (Kanji Radicals)</a></li>
+<li><a href="#org434aba5">Practice</a></li>
 </ul>
 </li>
-<li><a href="#org360be33">第五课：生活场景对话 (Lesson 5: Daily Conversations)</a>
+<li><a href="#org28cf3ef">第五课：生活场景对话 (Lesson 5: Daily Conversations)</a>
 <ul>
-<li><a href="#org67bbcf2">购物 (Shopping)</a></li>
-<li><a href="#org902033a">问路 (Asking for Directions)</a></li>
-<li><a href="#orgceed8ec">餐馆 (Restaurants)</a></li>
-<li><a href="#orgeb2c45e">Practice</a></li>
+<li><a href="#orge543e2a">购物 (Shopping)</a></li>
+<li><a href="#orgd32ee56">问路 (Asking for Directions)</a></li>
+<li><a href="#org1cdeac2">餐馆 (Restaurants)</a></li>
+<li><a href="#org16ae895">Practice</a></li>
 </ul>
 </li>
-<li><a href="#orgf87a524">第六课：日本文化与习俗 (Lesson 6: Japanese Culture and Customs)</a>
+<li><a href="#org20ba57b">第六课：日本文化与习俗 (Lesson 6: Japanese Culture and Customs)</a>
 <ul>
-<li><a href="#org9aa5dea">礼仪 (Etiquette)</a></li>
-<li><a href="#orgde7db4b">节日 (Festivals)</a></li>
-<li><a href="#org41a4d34">传统艺能 (Traditional Arts)</a></li>
-<li><a href="#org15aac04">Practice</a></li>
+<li><a href="#org8b18f09">礼仪 (Etiquette)</a></li>
+<li><a href="#orge3e56a6">节日 (Festivals)</a></li>
+<li><a href="#org8c133a0">传统艺能 (Traditional Arts)</a></li>
+<li><a href="#org0cd681b">Practice</a></li>
 </ul>
 </li>
-<li><a href="#org62d0d3f">第七课：日本地理 (Lesson 7: Japanese Geography)</a>
+<li><a href="#org06ed508">第七课：日本地理 (Lesson 7: Japanese Geography)</a>
 <ul>
-<li><a href="#org11fcf25">地理知识 (Geographical Knowledge)</a></li>
-<li><a href="#orga2427c2">日本地名 (Japanese Place Names)</a></li>
-<li><a href="#org16e0b10">Practice</a></li>
+<li><a href="#org3f03990">地理知识 (Geographical Knowledge)</a></li>
+<li><a href="#orgee3ba7f">日本地名 (Japanese Place Names)</a></li>
+<li><a href="#orgbe5d02f">Practice</a></li>
 </ul>
 </li>
-<li><a href="#orgc3f2c57">第八课：日本历史 (Lesson 8: Japanese History)</a>
+<li><a href="#org7454b01">第八课：日本历史 (Lesson 8: Japanese History)</a>
 <ul>
-<li><a href="#org4ffb2e0">历史时期 (Historical Periods)</a></li>
-<li><a href="#orgcca3813">历史事件 (Historical Events)</a></li>
-<li><a href="#org982871e">Practice</a></li>
+<li><a href="#orge4cb86a">历史时期 (Historical Periods)</a></li>
+<li><a href="#org5569dd8">历史事件 (Historical Events)</a></li>
+<li><a href="#org6f1611d">Practice</a></li>
 </ul>
 </li>
-<li><a href="#org536100d">第九课：拓展词汇与表达 (Lesson 9: Expanding Vocabulary and Expressions)</a>
+<li><a href="#org470b5f9">第九课：拓展词汇与表达 (Lesson 9: Expanding Vocabulary and Expressions)</a>
 <ul>
-<li><a href="#org78dfa74">高频词汇 (High-Frequency Vocabulary)</a></li>
-<li><a href="#org469b673">常用表达 (Common Expressions)</a></li>
-<li><a href="#orgb6511f7">俚语和习语 (Slang and Idioms)</a></li>
-<li><a href="#org47b7f96">Practice</a></li>
+<li><a href="#org8adfd04">高频词汇 (High-Frequency Vocabulary)</a></li>
+<li><a href="#org7a0a337">常用表达 (Common Expressions)</a></li>
+<li><a href="#org77c0f49">俚语和习语 (Slang and Idioms)</a></li>
+<li><a href="#orgeed31a7">Practice</a></li>
 </ul>
 </li>
-<li><a href="#orgef2fc64">第十课：实践与复习 (Lesson 10: Practice and Review)</a>
+<li><a href="#orgfa04452">第十课：实践与复习 (Lesson 10: Practice and Review)</a>
 <ul>
-<li><a href="#org7efb98c">复习 (Review)</a></li>
-<li><a href="#orgce4b332">口语实践 (Speaking Practice)</a></li>
-<li><a href="#org5234c59">阅读与写作 (Reading and Writing)</a></li>
-<li><a href="#org5e59d2a">考试准备 (Exam Preparation)</a></li>
-<li><a href="#org310dd83">Practice</a></li>
+<li><a href="#org673826d">复习 (Review)</a></li>
+<li><a href="#orgbc56219">口语实践 (Speaking Practice)</a></li>
+<li><a href="#org5c44f72">阅读与写作 (Reading and Writing)</a></li>
+<li><a href="#orge24b5e7">考试准备 (Exam Preparation)</a></li>
+<li><a href="#org1dd345f">Practice</a></li>
 </ul>
 </li>
-<li><a href="#org6ecf612">课程进度</a>
+<li><a href="#orgb5b72bd">课程进度</a>
 <ul>
-<li><a href="#org8eb52cf">Day 1-3: Lesson 1 - Japanese Basics</a></li>
-<li><a href="#org5659dcc">Day 4-6: Lesson 2 - Hiragana and Katakana</a></li>
-<li><a href="#orgf768f0f">Day 7-9: Lesson 3 - Basic Grammar</a></li>
-<li><a href="#org27b39c2">Day 10-12: Lesson 4 - Kanji</a></li>
-<li><a href="#org3bd3833">Day 13-15: Lesson 5 - Daily Conversations</a></li>
-<li><a href="#org321f7fc">Day 16-18: Lesson 6 - Japanese Culture and Customs</a></li>
-<li><a href="#orgee4428c">Day 19-21: Lesson 7 - Japanese Geography</a></li>
-<li><a href="#org4f0a585">Day 22-24: Lesson 8 - Japanese History</a></li>
-<li><a href="#orgac48515">Day 25-27: Lesson 9 - Expanding Vocabulary and Expressions</a></li>
-<li><a href="#orgad75d96">Day 28-30: Lesson 10 - Practice and Review</a></li>
+<li><a href="#orge567847">Day 1-3: Lesson 1 - Japanese Basics</a></li>
+<li><a href="#orgbbcfe0c">Day 4-6: Lesson 2 - Hiragana and Katakana</a></li>
+<li><a href="#org6c3d5b7">Day 7-9: Lesson 3 - Basic Grammar</a></li>
+<li><a href="#org73950b9">Day 10-12: Lesson 4 - Kanji</a></li>
+<li><a href="#orgedc7097">Day 13-15: Lesson 5 - Daily Conversations</a></li>
+<li><a href="#org5291825">Day 16-18: Lesson 6 - Japanese Culture and Customs</a></li>
+<li><a href="#orga2d151f">Day 19-21: Lesson 7 - Japanese Geography</a></li>
+<li><a href="#orgb9e78a2">Day 22-24: Lesson 8 - Japanese History</a></li>
+<li><a href="#org70214d3">Day 25-27: Lesson 9 - Expanding Vocabulary and Expressions</a></li>
+<li><a href="#org78116f0">Day 28-30: Lesson 10 - Practice and Review</a></li>
 </ul>
 </li>
 </ul>
@@ -128,17 +128,17 @@
 </ul>
 </div>
 </nav>
-<div id="outline-container-org3c1fb0d" class="outline-2">
-<h2 id="org3c1fb0d">Learning Japanese with ChatGPT</h2>
-<div class="outline-text-2" id="text-org3c1fb0d">
+<div id="outline-container-org7d4179a" class="outline-2">
+<h2 id="org7d4179a">Learning Japanese with ChatGPT</h2>
+<div class="outline-text-2" id="text-org7d4179a">
 <p>
 Note: all the text without <code>GPT&gt;&gt;&gt;</code> in this repo is generated by ChatGPT.
 </p>
 </div>
 
-<div id="outline-container-orgc48c7c4" class="outline-3">
-<h3 id="orgc48c7c4">Start</h3>
-<div class="outline-text-3" id="text-orgc48c7c4">
+<div id="outline-container-orgc836eb6" class="outline-3">
+<h3 id="orgc836eb6">Start</h3>
+<div class="outline-text-3" id="text-orgc836eb6">
 <p>
 GPT&gt;&gt;&gt;
 You are act a Japanese techer to teach me Japanese,  my native language is Chinese , I can read and write English.  You can mix English and Chinese for all reply when you teach Japanese. My Japanese level is very basic. Please make a learning plan and classes and start theme one by one . when you reply me the content use org-mode format please.
@@ -146,49 +146,49 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 </div>
 
-<div id="outline-container-orgef40deb" class="outline-3">
-<h3 id="orgef40deb">课程大纲 (Course Outline)</h3>
-<div class="outline-text-3" id="text-orgef40deb">
+<div id="outline-container-orgd376f70" class="outline-3">
+<h3 id="orgd376f70">课程大纲 (Course Outline)</h3>
+<div class="outline-text-3" id="text-orgd376f70">
 </div>
-<div id="outline-container-orgf74e410" class="outline-4">
-<h4 id="orgf74e410">日本語基本 (Japanese Basics)</h4>
+<div id="outline-container-org75cece7" class="outline-4">
+<h4 id="org75cece7">日本語基本 (Japanese Basics)</h4>
 </div>
-<div id="outline-container-org4c7f576" class="outline-4">
-<h4 id="org4c7f576">ひらがな和カタカナ (Hiragana and Katakana)</h4>
+<div id="outline-container-orgb9a4d93" class="outline-4">
+<h4 id="orgb9a4d93">ひらがな和カタカナ (Hiragana and Katakana)</h4>
 </div>
-<div id="outline-container-org5e53529" class="outline-4">
-<h4 id="org5e53529">基本文法 (Basic Grammar)</h4>
+<div id="outline-container-org8e696e5" class="outline-4">
+<h4 id="org8e696e5">基本文法 (Basic Grammar)</h4>
 </div>
-<div id="outline-container-org7a18bc2" class="outline-4">
-<h4 id="org7a18bc2">常用汉字 (Kanji)</h4>
+<div id="outline-container-orge5228ee" class="outline-4">
+<h4 id="orge5228ee">常用汉字 (Kanji)</h4>
 </div>
-<div id="outline-container-org967c246" class="outline-4">
-<h4 id="org967c246">生活场景对话 (Daily Conversations)</h4>
+<div id="outline-container-org0a6e868" class="outline-4">
+<h4 id="org0a6e868">生活场景对话 (Daily Conversations)</h4>
 </div>
-<div id="outline-container-org8412a40" class="outline-4">
-<h4 id="org8412a40">日本文化与习俗 (Japanese Culture and Customs)</h4>
+<div id="outline-container-org209cd71" class="outline-4">
+<h4 id="org209cd71">日本文化与习俗 (Japanese Culture and Customs)</h4>
 </div>
-<div id="outline-container-org31d1834" class="outline-4">
-<h4 id="org31d1834">日本地理 (Japanese Geography)</h4>
+<div id="outline-container-org33e8a5a" class="outline-4">
+<h4 id="org33e8a5a">日本地理 (Japanese Geography)</h4>
 </div>
-<div id="outline-container-orgb7a9703" class="outline-4">
-<h4 id="orgb7a9703">日本历史 (Japanese History)</h4>
+<div id="outline-container-org9584f2b" class="outline-4">
+<h4 id="org9584f2b">日本历史 (Japanese History)</h4>
 </div>
-<div id="outline-container-org24ffc58" class="outline-4">
-<h4 id="org24ffc58">拓展词汇与表达 (Expanding Vocabulary and Expressions)</h4>
+<div id="outline-container-org445f49b" class="outline-4">
+<h4 id="org445f49b">拓展词汇与表达 (Expanding Vocabulary and Expressions)</h4>
 </div>
-<div id="outline-container-org80326e1" class="outline-4">
-<h4 id="org80326e1">实践与复习 (Practice and Review)</h4>
+<div id="outline-container-orgba9b6a2" class="outline-4">
+<h4 id="orgba9b6a2">实践与复习 (Practice and Review)</h4>
 </div>
 </div>
 
-<div id="outline-container-org4c7828f" class="outline-3">
-<h3 id="org4c7828f"><a href="./lesson-1.html">第一课：日本語基本 (Lesson 1: Japanese Basics)</a></h3>
-<div class="outline-text-3" id="text-org4c7828f">
+<div id="outline-container-org0286f3f" class="outline-3">
+<h3 id="org0286f3f"><a href="./lesson-1.html">第一课：日本語基本 (Lesson 1: Japanese Basics)</a></h3>
+<div class="outline-text-3" id="text-org0286f3f">
 </div>
-<div id="outline-container-org7c05bee" class="outline-4">
-<h4 id="org7c05bee">自我介绍 (Self-Introduction)</h4>
-<div class="outline-text-4" id="text-org7c05bee">
+<div id="outline-container-org4ceac8f" class="outline-4">
+<h4 id="org4ceac8f">自我介绍 (Self-Introduction)</h4>
+<div class="outline-text-4" id="text-org4ceac8f">
 <ul class="org-ul">
 <li>こんにちは (konnichiwa) : 你好</li>
 <li>はじめまして (hajimemashite) : 初次见面</li>
@@ -196,9 +196,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-org802adfe" class="outline-4">
-<h4 id="org802adfe">常用问候 (Common Greetings)</h4>
-<div class="outline-text-4" id="text-org802adfe">
+<div id="outline-container-orgfe52451" class="outline-4">
+<h4 id="orgfe52451">常用问候 (Common Greetings)</h4>
+<div class="outline-text-4" id="text-orgfe52451">
 <ul class="org-ul">
 <li>おはようございます (ohayou gozaimasu) : 早上好</li>
 <li>こんばんは (konbanwa) : 晚上好</li>
@@ -207,9 +207,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-org959c9e8" class="outline-4">
-<h4 id="org959c9e8">数字 (Numbers)</h4>
-<div class="outline-text-4" id="text-org959c9e8">
+<div id="outline-container-orge347102" class="outline-4">
+<h4 id="orge347102">数字 (Numbers)</h4>
+<div class="outline-text-4" id="text-orge347102">
 <ul class="org-ul">
 <li>一 (いち, ichi) : 1</li>
 <li>二 (に, ni) : 2</li>
@@ -219,9 +219,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb588220" class="outline-4">
-<h4 id="orgb588220">Practice</h4>
-<div class="outline-text-4" id="text-orgb588220">
+<div id="outline-container-org0e85e23" class="outline-4">
+<h4 id="org0e85e23">Practice</h4>
+<div class="outline-text-4" id="text-org0e85e23">
 <p>
 自我介绍的练习 (Self-introduction practice)
 向朋友问候的练习 (Greeting friends practice)
@@ -230,13 +230,13 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 </div>
 </div>
-<div id="outline-container-org6ccf8c5" class="outline-3">
-<h3 id="org6ccf8c5">第二课：ひらがな和カタカナ (Lesson 2: Hiragana and Katakana)</h3>
-<div class="outline-text-3" id="text-org6ccf8c5">
+<div id="outline-container-orgbe5b94f" class="outline-3">
+<h3 id="orgbe5b94f">第二课：ひらがな和カタカナ (Lesson 2: Hiragana and Katakana)</h3>
+<div class="outline-text-3" id="text-orgbe5b94f">
 </div>
-<div id="outline-container-orgcc0ec11" class="outline-4">
-<h4 id="orgcc0ec11">ひらがな (Hiragana)</h4>
-<div class="outline-text-4" id="text-orgcc0ec11">
+<div id="outline-container-org36c3dc0" class="outline-4">
+<h4 id="org36c3dc0">ひらがな (Hiragana)</h4>
+<div class="outline-text-4" id="text-org36c3dc0">
 <ul class="org-ul">
 <li>あいうえお (a, i, u, e, o)</li>
 <li>かきくけこ (ka, ki, ku, ke, ko)</li>
@@ -245,9 +245,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-orge1e9d84" class="outline-4">
-<h4 id="orge1e9d84">カタカナ (Katakana)</h4>
-<div class="outline-text-4" id="text-orge1e9d84">
+<div id="outline-container-orgbab549e" class="outline-4">
+<h4 id="orgbab549e">カタカナ (Katakana)</h4>
+<div class="outline-text-4" id="text-orgbab549e">
 <ul class="org-ul">
 <li>アイウエオ (A, I, U, E, O)</li>
 <li>カキクケコ (KA, KI, KU, KE, KO)</li>
@@ -256,9 +256,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-org4996cf1" class="outline-4">
-<h4 id="org4996cf1">Practice</h4>
-<div class="outline-text-4" id="text-org4996cf1">
+<div id="outline-container-org3ed2b21" class="outline-4">
+<h4 id="org3ed2b21">Practice</h4>
+<div class="outline-text-4" id="text-org3ed2b21">
 <ul class="org-ul">
 <li>ひらがな和カタカナ的认读练习 (Hiragana and Katakana recognition practice)</li>
 <li>编写单词练习 (Writing words practice)</li>
@@ -266,13 +266,13 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 </div>
 </div>
-<div id="outline-container-orgd056c6f" class="outline-3">
-<h3 id="orgd056c6f">第三课：基本文法 (Lesson 3 Basic Grammar)</h3>
-<div class="outline-text-3" id="text-orgd056c6f">
+<div id="outline-container-orgc45786e" class="outline-3">
+<h3 id="orgc45786e">第三课：基本文法 (Lesson 3 Basic Grammar)</h3>
+<div class="outline-text-3" id="text-orgc45786e">
 </div>
-<div id="outline-container-orgbf46d68" class="outline-4">
-<h4 id="orgbf46d68">动词 (Verbs)</h4>
-<div class="outline-text-4" id="text-orgbf46d68">
+<div id="outline-container-org67cbc64" class="outline-4">
+<h4 id="org67cbc64">动词 (Verbs)</h4>
+<div class="outline-text-4" id="text-org67cbc64">
 <ul class="org-ul">
 <li>ます形 (masu form) : polite form</li>
 <li>辞書形 (jisho form) : dictionary form</li>
@@ -280,18 +280,18 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf7ac4b5" class="outline-4">
-<h4 id="orgf7ac4b5">形容词 (Adjectives)</h4>
-<div class="outline-text-4" id="text-orgf7ac4b5">
+<div id="outline-container-org46d2f30" class="outline-4">
+<h4 id="org46d2f30">形容词 (Adjectives)</h4>
+<div class="outline-text-4" id="text-org46d2f30">
 <ul class="org-ul">
 <li>い形容词 (i-adjectives)</li>
 <li>な形容词 (na-adjectives)</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgba02133" class="outline-4">
-<h4 id="orgba02133">语法结构 (Grammar Structures)</h4>
-<div class="outline-text-4" id="text-orgba02133">
+<div id="outline-container-orgeaa38cc" class="outline-4">
+<h4 id="orgeaa38cc">语法结构 (Grammar Structures)</h4>
+<div class="outline-text-4" id="text-orgeaa38cc">
 <ul class="org-ul">
 <li>が (ga) : subject marker</li>
 <li>を (wo) : object marker</li>
@@ -301,9 +301,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-org8869cf4" class="outline-4">
-<h4 id="org8869cf4">Practice</h4>
-<div class="outline-text-4" id="text-org8869cf4">
+<div id="outline-container-org82fca4a" class="outline-4">
+<h4 id="org82fca4a">Practice</h4>
+<div class="outline-text-4" id="text-org82fca4a">
 <ul class="org-ul">
 <li>动词形态变化练习 (Verb conjugation practice)</li>
 <li>形容词使用练习 (Adjective usage practice)</li>
@@ -312,13 +312,13 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 </div>
 </div>
-<div id="outline-container-orga218114" class="outline-3">
-<h3 id="orga218114">第四课：常用汉字 (Lesson 4: Kanji)</h3>
-<div class="outline-text-3" id="text-orga218114">
+<div id="outline-container-org757de2e" class="outline-3">
+<h3 id="org757de2e">第四课：常用汉字 (Lesson 4: Kanji)</h3>
+<div class="outline-text-3" id="text-org757de2e">
 </div>
-<div id="outline-container-orgea8c3c6" class="outline-4">
-<h4 id="orgea8c3c6">基本汉字 (Basic Kanji)</h4>
-<div class="outline-text-4" id="text-orgea8c3c6">
+<div id="outline-container-orgdd2a33b" class="outline-4">
+<h4 id="orgdd2a33b">基本汉字 (Basic Kanji)</h4>
+<div class="outline-text-4" id="text-orgdd2a33b">
 <ul class="org-ul">
 <li>山 (やま, yama) : mountain</li>
 <li>川 (かわ, kawa) : river</li>
@@ -328,9 +328,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd1f1c02" class="outline-4">
-<h4 id="orgd1f1c02">汉字的部首 (Kanji Radicals)</h4>
-<div class="outline-text-4" id="text-orgd1f1c02">
+<div id="outline-container-org7a79912" class="outline-4">
+<h4 id="org7a79912">汉字的部首 (Kanji Radicals)</h4>
+<div class="outline-text-4" id="text-org7a79912">
 <ul class="org-ul">
 <li>示 (しめす, shimesu) : 示</li>
 <li>氵(さんずい, sanzui) : 水</li>
@@ -339,9 +339,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf957f2e" class="outline-4">
-<h4 id="orgf957f2e">Practice</h4>
-<div class="outline-text-4" id="text-orgf957f2e">
+<div id="outline-container-org434aba5" class="outline-4">
+<h4 id="org434aba5">Practice</h4>
+<div class="outline-text-4" id="text-org434aba5">
 <ul class="org-ul">
 <li>汉字认读练习 (Kanji recognition practice)</li>
 <li>部首认识练习 (Radical identification practice)</li>
@@ -350,40 +350,40 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 </div>
 </div>
-<div id="outline-container-org360be33" class="outline-3">
-<h3 id="org360be33">第五课：生活场景对话 (Lesson 5: Daily Conversations)</h3>
-<div class="outline-text-3" id="text-org360be33">
+<div id="outline-container-org28cf3ef" class="outline-3">
+<h3 id="org28cf3ef">第五课：生活场景对话 (Lesson 5: Daily Conversations)</h3>
+<div class="outline-text-3" id="text-org28cf3ef">
 </div>
-<div id="outline-container-org67bbcf2" class="outline-4">
-<h4 id="org67bbcf2">购物 (Shopping)</h4>
-<div class="outline-text-4" id="text-org67bbcf2">
+<div id="outline-container-orge543e2a" class="outline-4">
+<h4 id="orge543e2a">购物 (Shopping)</h4>
+<div class="outline-text-4" id="text-orge543e2a">
 <ul class="org-ul">
 <li>これはいくらですか？(Kore wa ikura desu ka?) : 这个多少钱？</li>
 <li>お会計お願いします (O-kaikei onegaishimasu) : 请结账</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org902033a" class="outline-4">
-<h4 id="org902033a">问路 (Asking for Directions)</h4>
-<div class="outline-text-4" id="text-org902033a">
+<div id="outline-container-orgd32ee56" class="outline-4">
+<h4 id="orgd32ee56">问路 (Asking for Directions)</h4>
+<div class="outline-text-4" id="text-orgd32ee56">
 <ul class="org-ul">
 <li>～はどこですか？(～wa doko desu ka?) : ～在哪里？</li>
 <li>すみません、トイレはどこですか？(Sumimasen, toire wa doko desu ka?) : 请问，洗手间在哪里？</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgceed8ec" class="outline-4">
-<h4 id="orgceed8ec">餐馆 (Restaurants)</h4>
-<div class="outline-text-4" id="text-orgceed8ec">
+<div id="outline-container-org1cdeac2" class="outline-4">
+<h4 id="org1cdeac2">餐馆 (Restaurants)</h4>
+<div class="outline-text-4" id="text-org1cdeac2">
 <ul class="org-ul">
 <li>メニューをください (Menyuu o kudasai) : 请给我菜单</li>
 <li>これをください (Kore o kudasai) : 请给我这个</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgeb2c45e" class="outline-4">
-<h4 id="orgeb2c45e">Practice</h4>
-<div class="outline-text-4" id="text-orgeb2c45e">
+<div id="outline-container-org16ae895" class="outline-4">
+<h4 id="org16ae895">Practice</h4>
+<div class="outline-text-4" id="text-org16ae895">
 <ul class="org-ul">
 <li>购物对话练习 (Shopping dialogue practice)</li>
 <li>问路对话练习 (Asking for directions dialogue practice)</li>
@@ -393,13 +393,13 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 </div>
 
-<div id="outline-container-orgf87a524" class="outline-3">
-<h3 id="orgf87a524">第六课：日本文化与习俗 (Lesson 6: Japanese Culture and Customs)</h3>
-<div class="outline-text-3" id="text-orgf87a524">
+<div id="outline-container-org20ba57b" class="outline-3">
+<h3 id="org20ba57b">第六课：日本文化与习俗 (Lesson 6: Japanese Culture and Customs)</h3>
+<div class="outline-text-3" id="text-org20ba57b">
 </div>
-<div id="outline-container-org9aa5dea" class="outline-4">
-<h4 id="org9aa5dea">礼仪 (Etiquette)</h4>
-<div class="outline-text-4" id="text-org9aa5dea">
+<div id="outline-container-org8b18f09" class="outline-4">
+<h4 id="org8b18f09">礼仪 (Etiquette)</h4>
+<div class="outline-text-4" id="text-org8b18f09">
 <ul class="org-ul">
 <li>鞠躬 (おじぎ, ojigi) : Bowing</li>
 <li>送礼 (おみやげ, omiyage) : Gift-giving</li>
@@ -407,9 +407,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-orgde7db4b" class="outline-4">
-<h4 id="orgde7db4b">节日 (Festivals)</h4>
-<div class="outline-text-4" id="text-orgde7db4b">
+<div id="outline-container-orge3e56a6" class="outline-4">
+<h4 id="orge3e56a6">节日 (Festivals)</h4>
+<div class="outline-text-4" id="text-orge3e56a6">
 <ul class="org-ul">
 <li>お正月 (おしょうがつ, oshougatsu) : New Year</li>
 <li>ひな祭り (ひなまつり, hinamatsuri) : Girls' Day</li>
@@ -417,9 +417,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-org41a4d34" class="outline-4">
-<h4 id="org41a4d34">传统艺能 (Traditional Arts)</h4>
-<div class="outline-text-4" id="text-org41a4d34">
+<div id="outline-container-org8c133a0" class="outline-4">
+<h4 id="org8c133a0">传统艺能 (Traditional Arts)</h4>
+<div class="outline-text-4" id="text-org8c133a0">
 <ul class="org-ul">
 <li>茶道 (さどう, sadou) : Tea ceremony</li>
 <li>歌舞伎 (かぶき, kabuki) : Kabuki theater</li>
@@ -427,9 +427,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-org15aac04" class="outline-4">
-<h4 id="org15aac04">Practice</h4>
-<div class="outline-text-4" id="text-org15aac04">
+<div id="outline-container-org0cd681b" class="outline-4">
+<h4 id="org0cd681b">Practice</h4>
+<div class="outline-text-4" id="text-org0cd681b">
 <ul class="org-ul">
 <li>礼仪实践练习 (Etiquette practice)</li>
 <li>节日庆祝活动了解 (Understanding festival celebrations)</li>
@@ -439,13 +439,13 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 </div>
 
-<div id="outline-container-org62d0d3f" class="outline-3">
-<h3 id="org62d0d3f">第七课：日本地理 (Lesson 7: Japanese Geography)</h3>
-<div class="outline-text-3" id="text-org62d0d3f">
+<div id="outline-container-org06ed508" class="outline-3">
+<h3 id="org06ed508">第七课：日本地理 (Lesson 7: Japanese Geography)</h3>
+<div class="outline-text-3" id="text-org06ed508">
 </div>
-<div id="outline-container-org11fcf25" class="outline-4">
-<h4 id="org11fcf25">地理知识 (Geographical Knowledge)</h4>
-<div class="outline-text-4" id="text-org11fcf25">
+<div id="outline-container-org3f03990" class="outline-4">
+<h4 id="org3f03990">地理知识 (Geographical Knowledge)</h4>
+<div class="outline-text-4" id="text-org3f03990">
 <ul class="org-ul">
 <li>四个主要岛屿 (The four main islands)</li>
 <li>主要城市 (Major cities)</li>
@@ -453,9 +453,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-orga2427c2" class="outline-4">
-<h4 id="orga2427c2">日本地名 (Japanese Place Names)</h4>
-<div class="outline-text-4" id="text-orga2427c2">
+<div id="outline-container-orgee3ba7f" class="outline-4">
+<h4 id="orgee3ba7f">日本地名 (Japanese Place Names)</h4>
+<div class="outline-text-4" id="text-orgee3ba7f">
 <ul class="org-ul">
 <li>東京 (とうきょう, Tokyo) : 东京</li>
 <li>京都 (きょうと, Kyoto) : 京都</li>
@@ -463,9 +463,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-org16e0b10" class="outline-4">
-<h4 id="org16e0b10">Practice</h4>
-<div class="outline-text-4" id="text-org16e0b10">
+<div id="outline-container-orgbe5d02f" class="outline-4">
+<h4 id="orgbe5d02f">Practice</h4>
+<div class="outline-text-4" id="text-orgbe5d02f">
 <ul class="org-ul">
 <li>了解日本地理知识 (Understanding Japanese geography)</li>
 <li>学习日本地名 (Learning Japanese place names)</li>
@@ -473,13 +473,13 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 </div>
 </div>
-<div id="outline-container-orgc3f2c57" class="outline-3">
-<h3 id="orgc3f2c57">第八课：日本历史 (Lesson 8: Japanese History)</h3>
-<div class="outline-text-3" id="text-orgc3f2c57">
+<div id="outline-container-org7454b01" class="outline-3">
+<h3 id="org7454b01">第八课：日本历史 (Lesson 8: Japanese History)</h3>
+<div class="outline-text-3" id="text-org7454b01">
 </div>
-<div id="outline-container-org4ffb2e0" class="outline-4">
-<h4 id="org4ffb2e0">历史时期 (Historical Periods)</h4>
-<div class="outline-text-4" id="text-org4ffb2e0">
+<div id="outline-container-orge4cb86a" class="outline-4">
+<h4 id="orge4cb86a">历史时期 (Historical Periods)</h4>
+<div class="outline-text-4" id="text-orge4cb86a">
 <ul class="org-ul">
 <li>平安时代 (へいあんじだい, Heian Period)</li>
 <li>江户时代 (えどじだい, Edo Period)</li>
@@ -487,9 +487,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-orgcca3813" class="outline-4">
-<h4 id="orgcca3813">历史事件 (Historical Events)</h4>
-<div class="outline-text-4" id="text-orgcca3813">
+<div id="outline-container-org5569dd8" class="outline-4">
+<h4 id="org5569dd8">历史事件 (Historical Events)</h4>
+<div class="outline-text-4" id="text-org5569dd8">
 <ul class="org-ul">
 <li>日本战国时期 (にほんせんごくじだい, Japanese Warring States Period)</li>
 <li>明治维新 (めいじいしん, Meiji Restoration)</li>
@@ -497,9 +497,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </ul>
 </div>
 </div>
-<div id="outline-container-org982871e" class="outline-4">
-<h4 id="org982871e">Practice</h4>
-<div class="outline-text-4" id="text-org982871e">
+<div id="outline-container-org6f1611d" class="outline-4">
+<h4 id="org6f1611d">Practice</h4>
+<div class="outline-text-4" id="text-org6f1611d">
 <ul class="org-ul">
 <li>了解日本历史时期 (Understanding Japanese historical periods)</li>
 <li>学习日本历史事件 (Learning about Japanese historical events)</li>
@@ -507,38 +507,38 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 </div>
 </div>
-<div id="outline-container-org536100d" class="outline-3">
-<h3 id="org536100d">第九课：拓展词汇与表达 (Lesson 9: Expanding Vocabulary and Expressions)</h3>
-<div class="outline-text-3" id="text-org536100d">
+<div id="outline-container-org470b5f9" class="outline-3">
+<h3 id="org470b5f9">第九课：拓展词汇与表达 (Lesson 9: Expanding Vocabulary and Expressions)</h3>
+<div class="outline-text-3" id="text-org470b5f9">
 </div>
-<div id="outline-container-org78dfa74" class="outline-4">
-<h4 id="org78dfa74">高频词汇 (High-Frequency Vocabulary)</h4>
-<div class="outline-text-4" id="text-org78dfa74">
+<div id="outline-container-org8adfd04" class="outline-4">
+<h4 id="org8adfd04">高频词汇 (High-Frequency Vocabulary)</h4>
+<div class="outline-text-4" id="text-org8adfd04">
 <p>
 学习更多的名词、动词、形容词和副词 (Learn more nouns, verbs, adjectives, and adverbs)
 </p>
 </div>
 </div>
-<div id="outline-container-org469b673" class="outline-4">
-<h4 id="org469b673">常用表达 (Common Expressions)</h4>
-<div class="outline-text-4" id="text-org469b673">
+<div id="outline-container-org7a0a337" class="outline-4">
+<h4 id="org7a0a337">常用表达 (Common Expressions)</h4>
+<div class="outline-text-4" id="text-org7a0a337">
 <p>
 表示感激、道歉、请求等表达 (Expressions for gratitude, apologies, requests, etc.)
 </p>
 </div>
 </div>
-<div id="outline-container-orgb6511f7" class="outline-4">
-<h4 id="orgb6511f7">俚语和习语 (Slang and Idioms)</h4>
-<div class="outline-text-4" id="text-orgb6511f7">
+<div id="outline-container-org77c0f49" class="outline-4">
+<h4 id="org77c0f49">俚语和习语 (Slang and Idioms)</h4>
+<div class="outline-text-4" id="text-org77c0f49">
 <p>
 学习日本俚语和习语 (Learn Japanese slang and idioms)
 </p>
 </div>
 </div>
 
-<div id="outline-container-org47b7f96" class="outline-4">
-<h4 id="org47b7f96">Practice</h4>
-<div class="outline-text-4" id="text-org47b7f96">
+<div id="outline-container-orgeed31a7" class="outline-4">
+<h4 id="orgeed31a7">Practice</h4>
+<div class="outline-text-4" id="text-orgeed31a7">
 <ul class="org-ul">
 <li>学习高频词汇 (Learning high-frequency vocabulary)</li>
 <li>练习常用表达 (Practicing common expressions)</li>
@@ -547,47 +547,47 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 </div>
 </div>
-<div id="outline-container-orgef2fc64" class="outline-3">
-<h3 id="orgef2fc64">第十课：实践与复习 (Lesson 10: Practice and Review)</h3>
-<div class="outline-text-3" id="text-orgef2fc64">
+<div id="outline-container-orgfa04452" class="outline-3">
+<h3 id="orgfa04452">第十课：实践与复习 (Lesson 10: Practice and Review)</h3>
+<div class="outline-text-3" id="text-orgfa04452">
 </div>
-<div id="outline-container-org7efb98c" class="outline-4">
-<h4 id="org7efb98c">复习 (Review)</h4>
-<div class="outline-text-4" id="text-org7efb98c">
+<div id="outline-container-org673826d" class="outline-4">
+<h4 id="org673826d">复习 (Review)</h4>
+<div class="outline-text-4" id="text-org673826d">
 <p>
 回顾前九课的重点内容 (Review key points from the first nine lessons)
 </p>
 </div>
 </div>
-<div id="outline-container-orgce4b332" class="outline-4">
-<h4 id="orgce4b332">口语实践 (Speaking Practice)</h4>
-<div class="outline-text-4" id="text-orgce4b332">
+<div id="outline-container-orgbc56219" class="outline-4">
+<h4 id="orgbc56219">口语实践 (Speaking Practice)</h4>
+<div class="outline-text-4" id="text-orgbc56219">
 <ul class="org-ul">
 <li>与他人用日语进行对话 (Converse with others in Japanese)</li>
 <li>模拟生活场景进行练习 (Role-play in various situations)</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5234c59" class="outline-4">
-<h4 id="org5234c59">阅读与写作 (Reading and Writing)</h4>
-<div class="outline-text-4" id="text-org5234c59">
+<div id="outline-container-org5c44f72" class="outline-4">
+<h4 id="org5c44f72">阅读与写作 (Reading and Writing)</h4>
+<div class="outline-text-4" id="text-org5c44f72">
 <ul class="org-ul">
 <li>阅读简单的日语文章 (Read simple Japanese articles)</li>
 <li>尝试用日语写作 (Try writing in Japanese)</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5e59d2a" class="outline-4">
-<h4 id="org5e59d2a">考试准备 (Exam Preparation)</h4>
-<div class="outline-text-4" id="text-org5e59d2a">
+<div id="outline-container-orge24b5e7" class="outline-4">
+<h4 id="orge24b5e7">考试准备 (Exam Preparation)</h4>
+<div class="outline-text-4" id="text-orge24b5e7">
 <p>
 准备日本语能力测试 (Prepare for the Japanese Language Proficiency Test, JLPT)
 </p>
 </div>
 </div>
-<div id="outline-container-org310dd83" class="outline-4">
-<h4 id="org310dd83">Practice</h4>
-<div class="outline-text-4" id="text-org310dd83">
+<div id="outline-container-org1dd345f" class="outline-4">
+<h4 id="org1dd345f">Practice</h4>
+<div class="outline-text-4" id="text-org1dd345f">
 <ul class="org-ul">
 <li>复习与巩固前九课所学内容 (Review and reinforce content from the first nine lessons)</li>
 <li>提高口语、阅读与写作能力 (Improve speaking, reading, and writing skills)</li>
@@ -603,9 +603,9 @@ You are act a Japanese techer to teach me Japanese,  my native language is Chine
 </div>
 
 
-<div id="outline-container-org6ecf612" class="outline-3">
-<h3 id="org6ecf612">课程进度</h3>
-<div class="outline-text-3" id="text-org6ecf612">
+<div id="outline-container-orgb5b72bd" class="outline-3">
+<h3 id="orgb5b72bd">课程进度</h3>
+<div class="outline-text-3" id="text-orgb5b72bd">
 <p>
 GPT&gt;&gt;&gt; Could you make me a todo list for this curse , like how many days to finish this whole course, and  what should to learn in each day ?
 </p>
@@ -615,9 +615,9 @@ Certainly! Here's a suggested 30-day study plan to help you complete this course
 </p>
 </div>
 
-<div id="outline-container-org8eb52cf" class="outline-4">
-<h4 id="org8eb52cf">Day 1-3: Lesson 1 - Japanese Basics</h4>
-<div class="outline-text-4" id="text-org8eb52cf">
+<div id="outline-container-orge567847" class="outline-4">
+<h4 id="orge567847">Day 1-3: Lesson 1 - Japanese Basics</h4>
+<div class="outline-text-4" id="text-orge567847">
 <ul class="org-ul">
 <li>Day 1: Greetings, self-introduction, numbers</li>
 <li>Day 2: Dates, days of the week, months</li>
@@ -626,9 +626,9 @@ Certainly! Here's a suggested 30-day study plan to help you complete this course
 </div>
 </div>
 
-<div id="outline-container-org5659dcc" class="outline-4">
-<h4 id="org5659dcc">Day 4-6: Lesson 2 - Hiragana and Katakana</h4>
-<div class="outline-text-4" id="text-org5659dcc">
+<div id="outline-container-orgbbcfe0c" class="outline-4">
+<h4 id="orgbbcfe0c">Day 4-6: Lesson 2 - Hiragana and Katakana</h4>
+<div class="outline-text-4" id="text-orgbbcfe0c">
 <ul class="org-ul">
 <li>Day 4: Learn Hiragana</li>
 <li>Day 5: Learn Katakana</li>
@@ -637,9 +637,9 @@ Certainly! Here's a suggested 30-day study plan to help you complete this course
 </div>
 </div>
 
-<div id="outline-container-orgf768f0f" class="outline-4">
-<h4 id="orgf768f0f">Day 7-9: Lesson 3 - Basic Grammar</h4>
-<div class="outline-text-4" id="text-orgf768f0f">
+<div id="outline-container-org6c3d5b7" class="outline-4">
+<h4 id="org6c3d5b7">Day 7-9: Lesson 3 - Basic Grammar</h4>
+<div class="outline-text-4" id="text-org6c3d5b7">
 <ul class="org-ul">
 <li>Day 7: Verbs</li>
 <li>Day 8: Adjectives</li>
@@ -648,9 +648,9 @@ Certainly! Here's a suggested 30-day study plan to help you complete this course
 </div>
 </div>
 
-<div id="outline-container-org27b39c2" class="outline-4">
-<h4 id="org27b39c2">Day 10-12: Lesson 4 - Kanji</h4>
-<div class="outline-text-4" id="text-org27b39c2">
+<div id="outline-container-org73950b9" class="outline-4">
+<h4 id="org73950b9">Day 10-12: Lesson 4 - Kanji</h4>
+<div class="outline-text-4" id="text-org73950b9">
 <ul class="org-ul">
 <li>Day 10: Basic Kanji</li>
 <li>Day 11: Kanji Radicals</li>
@@ -659,9 +659,9 @@ Certainly! Here's a suggested 30-day study plan to help you complete this course
 </div>
 </div>
 
-<div id="outline-container-org3bd3833" class="outline-4">
-<h4 id="org3bd3833">Day 13-15: Lesson 5 - Daily Conversations</h4>
-<div class="outline-text-4" id="text-org3bd3833">
+<div id="outline-container-orgedc7097" class="outline-4">
+<h4 id="orgedc7097">Day 13-15: Lesson 5 - Daily Conversations</h4>
+<div class="outline-text-4" id="text-orgedc7097">
 <ul class="org-ul">
 <li>Day 13: Shopping</li>
 <li>Day 14: Asking for Directions</li>
@@ -670,9 +670,9 @@ Certainly! Here's a suggested 30-day study plan to help you complete this course
 </div>
 </div>
 
-<div id="outline-container-org321f7fc" class="outline-4">
-<h4 id="org321f7fc">Day 16-18: Lesson 6 - Japanese Culture and Customs</h4>
-<div class="outline-text-4" id="text-org321f7fc">
+<div id="outline-container-org5291825" class="outline-4">
+<h4 id="org5291825">Day 16-18: Lesson 6 - Japanese Culture and Customs</h4>
+<div class="outline-text-4" id="text-org5291825">
 <ul class="org-ul">
 <li>Day 16: Etiquette</li>
 <li>Day 17: Festivals</li>
@@ -681,9 +681,9 @@ Certainly! Here's a suggested 30-day study plan to help you complete this course
 </div>
 </div>
 
-<div id="outline-container-orgee4428c" class="outline-4">
-<h4 id="orgee4428c">Day 19-21: Lesson 7 - Japanese Geography</h4>
-<div class="outline-text-4" id="text-orgee4428c">
+<div id="outline-container-orga2d151f" class="outline-4">
+<h4 id="orga2d151f">Day 19-21: Lesson 7 - Japanese Geography</h4>
+<div class="outline-text-4" id="text-orga2d151f">
 <ul class="org-ul">
 <li>Day 19: Geographical Knowledge</li>
 <li>Day 20: Japanese Place Names</li>
@@ -692,9 +692,9 @@ Certainly! Here's a suggested 30-day study plan to help you complete this course
 </div>
 </div>
 
-<div id="outline-container-org4f0a585" class="outline-4">
-<h4 id="org4f0a585">Day 22-24: Lesson 8 - Japanese History</h4>
-<div class="outline-text-4" id="text-org4f0a585">
+<div id="outline-container-orgb9e78a2" class="outline-4">
+<h4 id="orgb9e78a2">Day 22-24: Lesson 8 - Japanese History</h4>
+<div class="outline-text-4" id="text-orgb9e78a2">
 <ul class="org-ul">
 <li>Day 22: Historical Periods</li>
 <li>Day 23: Historical Events</li>
@@ -703,9 +703,9 @@ Certainly! Here's a suggested 30-day study plan to help you complete this course
 </div>
 </div>
 
-<div id="outline-container-orgac48515" class="outline-4">
-<h4 id="orgac48515">Day 25-27: Lesson 9 - Expanding Vocabulary and Expressions</h4>
-<div class="outline-text-4" id="text-orgac48515">
+<div id="outline-container-org70214d3" class="outline-4">
+<h4 id="org70214d3">Day 25-27: Lesson 9 - Expanding Vocabulary and Expressions</h4>
+<div class="outline-text-4" id="text-org70214d3">
 <ul class="org-ul">
 <li>Day 25: High-Frequency Vocabulary</li>
 <li>Day 26: Common Expressions</li>
@@ -714,9 +714,9 @@ Certainly! Here's a suggested 30-day study plan to help you complete this course
 </div>
 </div>
 
-<div id="outline-container-orgad75d96" class="outline-4">
-<h4 id="orgad75d96">Day 28-30: Lesson 10 - Practice and Review</h4>
-<div class="outline-text-4" id="text-orgad75d96">
+<div id="outline-container-org78116f0" class="outline-4">
+<h4 id="org78116f0">Day 28-30: Lesson 10 - Practice and Review</h4>
+<div class="outline-text-4" id="text-org78116f0">
 <ul class="org-ul">
 <li>Day 28: Review lessons 1-9</li>
 <li>Day 29: Speaking Practice, Reading and Writing</li>
